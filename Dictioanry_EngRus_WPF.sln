@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictioanry_EngRus_WPF", "Dictioanry_EngRus_WPF.csproj", "{F626513D-B3CE-4936-BE64-A72B0EED304F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F626513D-B3CE-4936-BE64-A72B0EED304F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F626513D-B3CE-4936-BE64-A72B0EED304F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F626513D-B3CE-4936-BE64-A72B0EED304F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F626513D-B3CE-4936-BE64-A72B0EED304F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {320F69D6-2F46-4712-8789-C707F4100DD9}
+	EndGlobalSection
+EndGlobal
